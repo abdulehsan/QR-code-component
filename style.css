@@ -48,3 +48,11 @@ text-align: center;
 .footer p{
     display: inline;
 }
+
+@media only screen and (max-width: 375px){
+  .container{
+    margin: 100px 20px;
+  }
+}
+
+
